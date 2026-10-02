@@ -1,4 +1,4 @@
-## Hi there Im Raul Silva, 
+## Hi there! I'm Raul Silva, 
 
 Thanks for checking my profile!
 
