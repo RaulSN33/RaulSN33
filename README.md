@@ -1,4 +1,8 @@
-## Hi there Im Raul Silva, thanks for checking my profile!
+## Hi there Im Raul Silva, 
+
+Thanks for checking my profile!
+
+<!--Im curious about quant finance and algorithmic trading, always trying to test new ideas to 
 
 <!--
 **RaulSN33/RaulSN33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
